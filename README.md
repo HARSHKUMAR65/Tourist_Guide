@@ -1,11 +1,11 @@
 # Tourist_Guide
 A simple Tourism Website Portfolio which shows travel destinations across various part of Country. And provide  guide This theme is made using Bootstrap ,Html , css features several content sections, a responsive portfolio grid (tourist-places), window modals for each portfolio item, Blogs section and AboutUs Section
 
-Task
+Task:==>
 Built this app to show Attractions and History of my Country "INDIA" and to polish my HTML5, CSS3,  and Web App Development Skills.
 
 
-Tech Stack
+Tech Stack:==>
 HTML5
 CSS3
 Font Awesome
